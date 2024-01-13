@@ -3,6 +3,7 @@
 **Descrição:**
 BlogOnRails é um projeto de blog simples, desenvolvido em Ruby utilizando o framework Ruby on Rails, com suporte ao banco de dados PostgreSQL. Este blog oferece uma solução descomplicada para a criação, publicação e gerenciamento de conteúdo, sendo ideal para aqueles que buscam uma abordagem minimalista e fácil de usar.
 
+
 **Recursos Destacados:**
 - **Simplicidade em Foco:** Uma interface minimalista e direta, proporcionando uma experiência descomplicada para autores e leitores.
 - **Publicação Rápida:** Ferramentas simplificadas para criar e publicar conteúdo de forma eficiente.
@@ -17,3 +18,19 @@ BlogOnRails é um projeto de blog simples, desenvolvido em Ruby utilizando o fra
 4. Crie o banco de dados: `rails db:create`
 5. Execute as migrações: `rails db:migrate`
 6. Inicie o servidor: `rails server`
+
+
+## UPDATES
+
+**Versão 1.0.1 (atual):**
+- feat: Adiciona funcionalidade de criação de posts
+- feat: Adiciona formatação para data e hora em português
+- chore: Ajusta configurações de localização (pt-BR)
+- chore: Corrige problema de tradução ausente para nomes dos meses
+- chore: Ajusta template de post para exibir detalhes do autor e data
+
+**Versão 1.0.0 (ou a versão atual):**
+- feat: Adiciona funcionalidade básica de posts
+- chore: Configurações iniciais de localização (pt-BR)
+- chore: Adiciona template inicial para exibição de posts
+
