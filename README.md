@@ -29,7 +29,7 @@ BlogOnRails é um projeto de blog simples, desenvolvido em Ruby utilizando o fra
 - chore: Corrige problema de tradução ausente para nomes dos meses
 - chore: Ajusta template de post para exibir detalhes do autor e data
 
-**Versão 1.0.0 (ou a versão atual):**
+**Versão 1.0.0 :**
 - feat: Adiciona funcionalidade básica de posts
 - chore: Configurações iniciais de localização (pt-BR)
 - chore: Adiciona template inicial para exibição de posts
