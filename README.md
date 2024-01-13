@@ -22,7 +22,11 @@ BlogOnRails é um projeto de blog simples, desenvolvido em Ruby utilizando o fra
 
 ## UPDATES
 
-**Versão 1.0.1 (atual):**
+**Versão 1.0.2 (atual):**
+- feat: personalizar layout dos posts
+
+
+**Versão 1.0.1 :**
 - feat: Adiciona funcionalidade de criação de posts
 - feat: Adiciona formatação para data e hora em português
 - chore: Ajusta configurações de localização (pt-BR)
