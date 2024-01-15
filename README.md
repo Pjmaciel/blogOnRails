@@ -22,7 +22,13 @@ BlogOnRails é um projeto de blog simples, desenvolvido em Ruby utilizando o fra
 
 ## UPDATES
 
-**[Versão 1.0.2 (atual)](https://github.com/Pjmaciel/blogOnRails/releases/tag/v1.0.2)**
+**[Versão 1.0.3 (atual)](https://github.com/Pjmaciel/blogOnRails/releases/tag/v1.0.3)**
+
+- feat: Adiciona funcionalidade de comentários em posts
+    -- Adiciona formulário para inserir comentários.
+    -- Exibe número de comentários e mensagem encorajadora para usuários que não comentaram ainda.
+
+**[Versão 1.0.2 ](https://github.com/Pjmaciel/blogOnRails/releases/tag/v1.0.2)**
 
 - feat: personalizar layout dos posts
 
