@@ -29,6 +29,7 @@ gem 'bootsnap', '>= 1.4.4', require: false
 gem 'bootstrap'
 gem 'jquery-rails'
 gem 'i18n', '~> 1.14', '>= 1.14.1'
+gem 'pry'
 
 
 
